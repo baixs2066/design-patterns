@@ -1,0 +1,20 @@
+关联关系
+Association
+关联关系实际上就是类与类之间的联系，他是依赖关系的特例
+关联具有导航型：即双向关系或单向关系
+关联具有多重性：一个类中有一个或者多个另一个类（一个学生可以有多个老师）
+
+单向一对一关系
+public class Person{
+ private IDCard card；
+}
+pubic class IDCard{
+}
+
+双向一对一关系
+public class Person{
+ private IDCard card；
+}
+pubic class IDCard{
+	prvate class Person
+}
