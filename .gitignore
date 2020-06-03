@@ -5,7 +5,7 @@ target/
 .target
 .mymetadata
 .tomcatplugin
-*.class
 .idea/
 *.iml
 /class/
+*.class
