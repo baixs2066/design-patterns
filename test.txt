@@ -1,4 +1,5 @@
 test1 
 edite by notclone
 test2
+test2 edite by clone
 test3
